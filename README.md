@@ -1,8 +1,8 @@
 This repository contains the official implementation of the paper:
 
-> **[Paper Title]**  
-> Author(s)  
-> Journal / Conference, Year
+> **[Image Retrieval Using Deep Learning and Graph Theory]**  
+> Author( Arjuwan M. A. Al-Jawadi 1,Ayhan A. K. Al-Shumam 2)  
+> Journal : Kufa Journal of Engineering, 2025-2026
 
 ---
 
