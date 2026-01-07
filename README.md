@@ -17,13 +17,13 @@ All experiments are conducted on a CPU using a single script.
 
 
 ## Environment Setup
-- Python ≥ 3.8
+- Python ≥ 3.9
 - NumPy
 - Matplotlib
 
 The experiments were conducted using:
 
-- Python 3.10
+- Python 3.9
 - See `requirements.txt` for full dependencies
 
 Install dependencies with:
