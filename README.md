@@ -14,7 +14,12 @@ All experiments are conducted on a CPU using a single script.
 
 ---
 
+
+
 ## Environment Setup
+- Python ≥ 3.8
+- NumPy
+- Matplotlib
 
 The experiments were conducted using:
 
