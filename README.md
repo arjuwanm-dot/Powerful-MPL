@@ -58,5 +58,4 @@ The dataset used in this study consists of self-collected images of fish and sta
 The dataset is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 The dataset is available at:
-- https://github.com/arjuwanm-dot/Powerful-MPL/tree/main/dataset
-
+- [FSID Dataset on GitHub](https://github.com/arjuwanm-dot/Powerful-MPL/tree/main/dataset)
