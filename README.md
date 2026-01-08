@@ -43,6 +43,16 @@ between fish and stationary/background objects.
 - Fish
 - Stationary
 
+## Sample Images
+
+### Fish
+![Fish sample 1](dataset/images/fish_001.jpg)
+![Fish sample 2](dataset/images/fish_002.jpg)
+
+### Stationary
+![Stationary sample 1](dataset/images/stationary_001.jpg)
+![Stationary sample 2](dataset/images/stationary_002.jpg)
+
 ## Image format
 - RGB images (JPG/PNG)
 
