@@ -31,7 +31,7 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 
-# Fish–Stationary Image Dataset (FSID)
+## Fish–Stationary Image Dataset (FSID)
 
 This dataset contains self-collected images used for binary classification
 between fish and stationary/background objects.
