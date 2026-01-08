@@ -1,71 +1,35 @@
-This repository contains the official implementation of the paper:
+# Image Retrieval Using Deep Learning and Graph Theory
 
-> **[Image Retrieval Using Deep Learning and Graph Theory]**  
-> Author( Arjuwan M. A. Al-Jawadi 1,Ayhan A. K. Al-Shumam 2)  
-> Journal : Kufa Journal of Engineering, 2025-2026
+This repository contains the **official implementation** of the paper:
+
+> **Image Retrieval Using Deep Learning and Graph Theory**  
+> Authors: Arjuwan M. A. Al-Jawadi¹, Ayhan A. K. Al-Shumam²  
+> Journal: Kufa Journal of Engineering, 2025–2026
 
 ---
 
 ## Overview
 
-This code implements the method proposed in the paper and is provided 
-to ensure full reproducibility of the results.  
-All experiments are conducted on a CPU using a single script.
+This repository implements the method proposed in the paper and provides **full reproducibility** of the results.  
+All experiments are conducted on a CPU using a **single script (`main.py`)**.  
+
+The repository includes:  
+- Implementation of the MLP architecture ([176154-1-7-5-1]) used for image classification.  
+- Self-collected Fish–Stationary Image Dataset (FSID).  
+- Scripts and instructions to reproduce the results exactly, including random seeds and hardware information.
 
 ---
 
-
-
 ## Environment Setup
-- Python ≥ 3.9
-- NumPy
-- Matplotlib
 
-The experiments were conducted using:
+- Python ≥ 3.9  
+- NumPy  
+- Matplotlib  
+- H5py  
+- PIL (Pillow)  
+- SciPy  
 
-- Python 3.9
-- See `requirements.txt` for full dependencies
-
-Install dependencies with:
+Install all dependencies with:
 
 ```bash
 pip install -r requirements.txt
----
-
-
-
-## Fish–Stationary Image Dataset (FSID)
-
-This dataset contains self-collected images used for binary classification
-between fish and stationary/background objects.
-
-## Classes
-- Fish
-- Stationary
-
-## Sample Images
-
-### Fish
-![Fish sample 1](dataset/images/fish_001.jpg)
-![Fish sample 2](dataset/images/fish_002.jpg)
-
-### Stationary
-![Stationary sample 1](dataset/images/stationary_001.jpg)
-![Stationary sample 2](dataset/images/stationary_002.jpg)
-
-## Image format
-- RGB images (JPG/PNG)
-
-## License
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-## Owner
-© 2026 The Authors
-
-## Dataset Availability
-
-The dataset used in this study consists of self-collected images of fish and stationary objects.
-The dataset is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-
-The dataset is available at:
-- [FSID Dataset on GitHub](https://github.com/arjuwanm-dot/Powerful-MPL/tree/main/dataset)
