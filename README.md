@@ -30,3 +30,29 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+# Fish–Stationary Image Dataset (FSID)
+
+This dataset contains self-collected images used for binary classification
+between fish and stationary/background objects.
+
+## Classes
+- Fish
+- Stationary
+
+## Image format
+- RGB images (JPG/PNG)
+
+## License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Owner
+© 2026 The Authors
+
+## Dataset Availability
+
+The dataset used in this study consists of self-collected images of fish and stationary objects.
+The dataset is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+The dataset is available at:
+- https://github.com/arjuwanm-dot/Powerful-MPL/tree/main/dataset
