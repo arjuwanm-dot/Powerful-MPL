@@ -30,6 +30,9 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+---
+
+
 
 ## Fish–Stationary Image Dataset (FSID)
 
@@ -56,3 +59,4 @@ The dataset is released under the Creative Commons Attribution 4.0 International
 
 The dataset is available at:
 - https://github.com/arjuwanm-dot/Powerful-MPL/tree/main/dataset
+
