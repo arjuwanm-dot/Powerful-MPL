@@ -10,14 +10,16 @@ This repository contains the **official implementation** of the paper:
 
 ## Overview
 
-This repository implements the method proposed in the paper and provides **full reproducibility** of the results.  
-All experiments are conducted on a CPU using a **single script (`main.py`)**.  
+This repository implements the method proposed in the paper and provides full reproducibility of the results.
+All experiments are conducted on a CPU using a single script (main.py).
 
-The repository includes:  
-- Implementation of the MLP architecture with nummber of inputs are vector (1 - 176154) used for image classification.  
-- Self-collected Fish–Stationary Image Dataset (FSID).  
-- Scripts and instructions to reproduce the results exactly, including random seeds and hardware information.
+The repository includes:
 
+Implementation of the MLP architecture with the number of inputs as a vector (1–176154) and a deep multilayer architecture [1-7-5-1] used for image classification.
+
+Self-collected Fish–Stationary Image Dataset (FSID).
+
+Scripts and instructions to reproduce the results exactly, including random seeds and hardware information.
 ---
 
 ## Environment Setup
