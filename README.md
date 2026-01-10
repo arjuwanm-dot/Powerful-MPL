@@ -14,7 +14,7 @@ This repository implements the method proposed in the paper and provides **full 
 All experiments are conducted on a CPU using a **single script (`main.py`)**.  
 
 The repository includes:  
-- Implementation of the MLP architecture ([176154-1-7-5-1]) used for image classification.  
+- Implementation of the MLP architecture with nummber of inputs are vector (1 - 176154) used for image classification.  
 - Self-collected Fish–Stationary Image Dataset (FSID).  
 - Scripts and instructions to reproduce the results exactly, including random seeds and hardware information.
 
